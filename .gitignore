@@ -1,0 +1,14 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.DS_Store
+app_backup.py
+app_backup_before_fix.py
+app_backup.py
+app_backup_before_fix.py
